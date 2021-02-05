@@ -1,0 +1,9 @@
+export const IMG_W = 34.1;
+export const IMG_H = 19.2;
+export const GUTTER = 1.0;
+export const ROW_H = 28.5;
+export const SPON_IMG_W = 54.2;
+export const SPON_IMG_H = 41.5;
+export const VIEW_PADDING = 11.0;
+export const SPON_IMG_SRC = "/images/landrover.png";
+export const SPON_IMG_RATIO = SPON_IMG_W / SPON_IMG_H;
